@@ -1,0 +1,10 @@
+{
+    "StagePen": {
+        "URL": "https://sdpastage-play.palainteractive.com/casino",
+        "locationWhere": "PENNSYLVANIA"
+    },
+    "StageNewJersey": {
+        "URL": "https://sdnjstage-play.palainteractive.com/casino",
+        "locationWhere": "NEW JERSEY"
+    }    
+}
